@@ -51,7 +51,7 @@ git commit -m "updated submodule of submodule"
 
 ## Submodules
 
-The Application and Documentation use two different types of architecture (due to their function), and have been separated into different submodules. Both feature submodules themselves, but for different reasons. The MERN Stack Application has separate submodules for Frontend and Backend for code re-usability. The Jamstack Documentation has seperated modules for Framework and Content in order to differentiate version control and commit history between the two.
+The Application and Documentation use two different types of architecture (due to their function), and have been separated into different submodules. Both feature submodules themselves, but for different reasons. The MERN Stack Application has separate submodules for Frontend and Backend for code re-usability. The Jamstack Documentation has seperate modules for Framework and Content in order to differentiate version control and commit history between the two.
 
 - MERN Stack Application
   - Frontend

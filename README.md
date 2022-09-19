@@ -1,6 +1,6 @@
 # Pokedex
 
-The Pokédex project is (1) a Full MERN Stack Application that catalogues and provides data on all the species of Pokémon featured in the video game, anime and manga series as well as (2) a seperate Jamstack application which provides Documentation on the design and creation of the project in it's entirety. It is being actively developed and maintained by Kanto Pharmaceuticals, a non-commercial GitHub organization run by @mattybakes. The purpose of this application is purely academic and non-commercial.
+The Pokédex project is (1) a Full MERN Stack Application that catalogues and provides data on all the species of Pokémon featured in the video game, anime and manga series as well as (2) a seperate Jamstack application which provides Documentation on the design and creation of the project in it's entirety. It is being actively developed and maintained by Kanto Pharmaceuticals, a non-commercial GitHub organization run by [@mattybakes](https://github.com/Kanto-Pharmaceuticals/pokedex/commits?author=mattybakes). The purpose of this application is purely academic and non-commercial.
 
 ## Getting Started
 
@@ -48,3 +48,26 @@ cd ..
 git add .
 git commit -m "updated submodule of submodule"
 ```
+
+## Submodules
+
+The Application and Documentation use two different types of architecture (due to their function), and have been separated into different submodules. Both feature submodules themselves, but for different reasons. The MERN Stack Application has separate submodules for Frontend and Backend for code re-usability. The Jamstack Documentation has seperated modules for Framework and Content in order to differentiate version control and commit history between the two.
+
+- MERN Stack Application
+  - Frontend
+  - Backend
+- Jamstack Documentation
+  - Framework
+    - Content
+
+## Figma Design Files
+
+## Other Assets
+
+## Credit
+
+[msikma](https://github.com/msikma) / [pokesprite](https://github.com/msikma/pokesprite) : https://msikma.github.io/pokesprite/
+
+[PokeAPI](https://github.com/PokeAPI) / [pokeapi](https://github.com/PokeAPI/pokeapi) : https://pokeapi.co
+
+[joshwcomeau](https://github.com/joshwcomeau) : https://www.joshwcomeau.com

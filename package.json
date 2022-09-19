@@ -5,7 +5,6 @@
   "scripts": {
     "update-submodule": "git submodule update --init --recursive --remote",
     "update-base": "git pull",
-    "update": "yarn update-submodule && yarn update-base",
-    "add-submodule": "git submodule foreach --recursive git add ."
+    "update": "yarn update-submodule && yarn update-base"
   }
 }

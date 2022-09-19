@@ -1,0 +1,6 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/Kanto-Pharmaceuticals/pokedex-application
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/Kanto-Pharmaceuticals/pokedex-documentation

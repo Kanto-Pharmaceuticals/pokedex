@@ -60,6 +60,22 @@ The Application and Documentation use two different types of architecture (due t
   - Framework
     - Content
 
+## Technologies Used
+
+- [MongoDB](https://www.mongodb.com): Self-hosted database
+- [ExpressJS](https://expressjs.com): Web framework package for Node.js
+- [NGINX](https://nginx.org): Reverse-proxy and load balancing
+- [React](https://reactjs.org): Frontend Framework
+- [Node.js](https://nodejs.org/en/): Runtime for stack
+- [Gatsby](https://www.gatsbyjs.com): A React based SSG framework
+- [Markdown](https://github.github.com/gfm/): Simple lightweight markup
+- [Typesense](https://github.com/typesense/typesense): Open source Algolia
+- [GitHub Actions](https://github.com/features/actions): CI/CD Pipelines
+- [adnanh](https://github.com/adnanh) / [webhook](https://github.com/adnanh/webhook): Webhooks for continuous build and testing
+- [GoogleChrome](https://github.com/GoogleChrome) / [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci): Benchmarking and Testing
+- [Graylog2](https://github.com/Graylog2/graylog2-server): Log management
+- [Prometheus](https://prometheus.io) + [Grafana](https://grafana.com): System and endpoint monitoring
+
 ## Figma Design Files
 
 ## Other Assets

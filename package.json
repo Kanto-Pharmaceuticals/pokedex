@@ -1,5 +1,6 @@
 {
   "name": "Pokedex",
+  "repository": "https://github.com/Kanto-Pharmaceuticals/pokedex",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {

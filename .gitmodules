@@ -4,3 +4,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/Kanto-Pharmaceuticals/pokedex-documentation
+[submodule "assets"]
+	path = assets
+	url = https://github.com/Kanto-Pharmaceuticals/pokedex-assets.git

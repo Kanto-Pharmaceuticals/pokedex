@@ -70,7 +70,7 @@ The Application and Documentation use two different types of architecture (due t
 - [Gatsby](https://www.gatsbyjs.com): A React based SSG framework
 - [Markdown](https://github.github.com/gfm/): Simple lightweight markup
 - [Typesense](https://github.com/typesense/typesense): Open source Algolia
-- [GitHub Actions](https://github.com/features/actions): CI/CD Pipelines
+- [GitHub Actions](https://github.com/helpers/actions): CI/CD Pipelines
 - [adnanh](https://github.com/adnanh) / [webhook](https://github.com/adnanh/webhook): Webhooks for continuous build and testing
 - [GoogleChrome](https://github.com/GoogleChrome) / [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci): Benchmarking and Testing
 - [Graylog2](https://github.com/Graylog2/graylog2-server): Log management
